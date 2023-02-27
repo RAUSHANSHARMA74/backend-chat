@@ -1,0 +1,25 @@
+mongoURL = mongodb+srv://WorkDesk:WorkDesk@workdesk.rjuaqpz.mongodb.net/WorkDesk?retryWrites=true&w=majority
+port=8080
+Refresh_Token_key = Refresh_Token_key
+Normal_Token_key = Normal_Token_key
+access_key = WorkDesk@admin
+
+---------------------------------------------------------------->
+
+github Oauth
+
+GITHUB_CLIENT_ID = 78ca741c264791a141fb
+GITHUB_CLIENT_SECRET = 0ebea7b4d8dfe719f652dc499a4b0dd92cb566df
+
+
+---------------------------------------------------------------->
+
+google auth 
+
+GOOGLE_CLIENT_ID = 1029703374378-pc19m0k7aodttom8lplr41k1cam9pinf.apps.googleusercontent.com
+GOOGLE_CLIENT_SECRET = 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
+
+---------------------------------------------------------------->
+auth login 
+
+authKey = authPassword 
